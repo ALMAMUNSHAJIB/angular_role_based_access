@@ -1,0 +1,86 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Admin user",
+      "password": "1234567",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "test1",
+      "name": "Admin user",
+      "password": "1234567",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "role": "manager",
+      "isactive": true
+    },
+    {
+      "id": "test2",
+      "name": "Admin user",
+      "password": "1234567",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "test3",
+      "name": "Admin user",
+      "password": "1234567",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "test4",
+      "name": "Admin user",
+      "password": "1234567",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "test5",
+      "name": "Admin user",
+      "password": "1234567",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "test6",
+      "name": "Admin user",
+      "password": "1234567",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "role": "manager",
+      "isactive": true
+    },
+    {
+      "id": "mamun",
+      "name": "almamun",
+      "password": "1234567",
+      "email": "mamun@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "Staff"
+    },
+    {
+      "code": "manager",
+      "name": "Manager"
+    }
+  ]
+}
